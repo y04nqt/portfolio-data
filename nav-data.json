@@ -1,5 +1,7 @@
-{
-    "link": "https://raw.githubusercontent.com/y04nqt/portfolio-data/main/blogs/blog-1.json",
-    "name": "Blog 1",
-    "description": "My First Blog"
-}
+[
+    {
+        "link": "https://raw.githubusercontent.com/y04nqt/portfolio-data/main/blogs/blog-1.json",
+        "name": "Blog 1",
+        "description": "My First Blog"
+    }
+]
