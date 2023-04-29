@@ -3,5 +3,10 @@
         "link": "blog-1",
         "name": "Blog 1",
         "description": "My First Blog"
+    },
+    {
+        "link": "blog-2",
+        "name": "Blog 2",
+        "description": "My Second Blog"
     }
 ]
