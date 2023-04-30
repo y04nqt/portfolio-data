@@ -1,12 +1,18 @@
 [
     {
-        "link": "blog-1",
-        "name": "Blog 1",
-        "description": "My First Blog"
+        "link": "start-here",
+        "name": "Start Here",
+        "description": "My First Blog",
+        "created": "2023-04-28",
+        "updated": "2023-04-30",
+        "id": "1"
     },
     {
         "link": "blog-2",
         "name": "Blog 2",
-        "description": "My Second Blog"
+        "description": "My Second Blog",
+        "created": "2023-04-28",
+        "updated": "2023-04-30",
+        "id": "2"
     }
 ]
