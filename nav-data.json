@@ -8,8 +8,9 @@
         "id": "1"
     },
     {
-        "link": "blog-2",
-        "name": "Blog 2",
+        "link": "theory-and-reason",
+        "name": "Theory & Reason",
+        "title": "Architecture: Theory and Reason Behind Current Decisions of This Site",
         "description": "My Second Blog",
         "created": "2023-04-28",
         "updated": "2023-04-30",
